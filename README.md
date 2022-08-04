@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ksnakulan
 - 👀 Coding Lub
 - 🌱 Love to Learn
+- 🧮 Problem Solving...
 - 👨‍💻 Experience in Java, Python, and Web Technologies
 - 🤖 Machine Learning
 
